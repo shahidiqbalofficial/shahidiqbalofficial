@@ -11,15 +11,15 @@ Hello there! I'm Shahid Iqbal, a passionate Software Engineer with a love for co
 
 - 👯 I’m looking to collaborate on [Full Stack Development](https://github.com/shahidiqbalofficial/Full-Stack-Development.git)
 
-- 👨‍💻 All of my projects are available at [https://github.com/shahidiqbalofficial/Portfolio.git](https://github.com/shahidiqbalofficial/Portfolio.git)
+- 👨‍💻 All of my projects are available at [Projects](https://github.com/shahidiqbalofficial/Portfolio.git)
 
-- 📝 I regularly write articles on [shahidyc](shahidyc)
+- 📝 I regularly write articles on [MyArticles](https://github.com/shahidiqbalofficial/Articles.git)
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **shahidiqbalofficial.is@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/shahidiqbalofficial/Resume.git](https://github.com/shahidiqbalofficial/Resume.git)
+- 📄 Know about my experiences [Resume](https://github.com/shahidiqbalofficial/Resume.git)
 ##
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
