@@ -7,7 +7,7 @@
 ## 🌟 About Me
 Hello there! I'm Shahid Iqbal, a passionate Software Engineer with a love for coding and solving real-world problems. This repository serves as a showcase of my project experience and contributions to the open-source community.
 
-- 🔭 I’m currently working on [React Native](https://github.com/shahidiqbalofficial/React-Native.git)
+- 🔭 I’m currently working on  [React Native](https://github.com/shahidiqbalofficial/React-Native.git) & [React](https://github.com/shahidiqbalofficial/React-js-Project.git)
 
 - 🌱 I’m currently learning **Full stack**
 
