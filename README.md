@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm shahidiqbal</h1>
+<h2 align="center">Hi 👋, I'm shahidiqbal</h2>
 <h4 align="center">A passionate developer from Pakistan</h4>
 
 ## 👨‍💻 [My-Portfolio](https://portfolio-lxuzq6jeu-shahidiqbalofficials-projects.vercel.app)
